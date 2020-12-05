@@ -5,8 +5,8 @@ key: value
 
 def read_from_hash(hash, key)
   hash = {
-    name: Steve,
-    'name' => Tzvi
+    name: "Steve",
+    'name' => "Tzvi"
   }
 end
 
