@@ -4,10 +4,7 @@ key: value
 }end
 
 def read_from_hash(hash, key)
-  hash = {
-    name: "Steve",
-    'name' => "Tzvi"
-  }
+  # return the correct value using the hash and key parameters
 end
 
 def update_counting_hash(hash, key)
